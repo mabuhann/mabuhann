@@ -32,12 +32,6 @@ I'm a passionate developer with a love for clean code, secure systems, and user-
 
 ---
 
-## 📈 GitHub Stats
-
-![Mawadda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabuhann&show_icons=true&theme=default)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mawadda-abuhannoud)
