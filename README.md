@@ -25,10 +25,10 @@ I'm a passionate developer with a love for clean code, secure systems, and user-
 
 ## 🚀 Projects
 
-- 📱 **RTF Writing App**: A mobile app for writers with Dropbox sync & Quill-based editor  
-- 🧠 **ChatTA**: An AI-powered Canvas grading assistant using OpenAI & Python  
-- 🔒 **Security Labs**: Projects from pwn.college & CSE 543 focused on network security  
+- 📱 **Story Stage**: A mobile app for writers with Dropbox sync & Quill-based editor  
+- 🧠 **ChatTA**: An AI-powered Canvas grading assistant using OpenAI & Python
 - 🌐 **L@S Data Dictionary**: A full-stack platform for managing educational data
+- 🔒 **Security Labs**: Projects from pwn.college & CSE 543 focused on network security  
 
 ---
 
