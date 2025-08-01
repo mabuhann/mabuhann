@@ -25,7 +25,7 @@ I'm a passionate developer with a love for clean code, secure systems, and user-
 
 ## 🚀 Projects
 
-- 🧠 **ChatTA**: An AI-powered Canvas grading assistant using OpenAI & Python  
+- 🧠 [**ChatTA**]([https://github.com/your-username/chatta](https://github.com/mabuhann/ChatTA): An AI-powered Canvas grading assistant using OpenAI & Python — [Live Demo (.exe)]([https://github.com/your-username/chatta-demo/releases](https://github.com/mabuhann/ChatTA/releases/tag/v1.0.0)
 - 📱 **Story Stage**: A mobile app for writers with Dropbox sync & Quill-based editor  
 - 🌐 **L@S Data Dictionary**: A full-stack platform for managing educational data
 
