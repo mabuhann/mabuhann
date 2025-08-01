@@ -28,7 +28,6 @@ I'm a passionate developer with a love for clean code, secure systems, and user-
 - 🧠 **ChatTA**: An AI-powered Canvas grading assistant using OpenAI & Python  
 - 📱 **Story Stage**: A mobile app for writers with Dropbox sync & Quill-based editor  
 - 🌐 **L@S Data Dictionary**: A full-stack platform for managing educational data
-- 🔒 **Security Labs**: Projects from pwn.college & CSE 543 focused on network security  
 
 ---
 
