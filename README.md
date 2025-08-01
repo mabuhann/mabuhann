@@ -25,7 +25,7 @@ I'm a passionate developer with a love for clean code, secure systems, and user-
 
 ## 🚀 Projects
 
-- 🧠 [**ChatTA**]([https://github.com/your-username/chatta](https://github.com/mabuhann/ChatTA): An AI-powered Canvas grading assistant using OpenAI & Python — [Live Demo (.exe)]([https://github.com/your-username/chatta-demo/releases](https://github.com/mabuhann/ChatTA/releases/tag/v1.0.0)
+- 🧠 [**ChatTA**](https://github.com/mabuhann/ChatTA): An AI-powered Canvas grading assistant using OpenAI & Python — [Live Demo (.exe)](https://github.com/mabuhann/chatta-demo/releases)
 - 📱 **Story Stage**: A mobile app for writers with Dropbox sync & Quill-based editor  
 - 🌐 **L@S Data Dictionary**: A full-stack platform for managing educational data
 
@@ -34,7 +34,7 @@ I'm a passionate developer with a love for clean code, secure systems, and user-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mawadda-abuhannoud)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mabuhann@asu.edu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawadda.abuhannoud@gmail.com)
 
 ---
 
